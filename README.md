@@ -14,3 +14,6 @@ User must:
 
 >P.S if you put in "admin" as your name then the program will print out all the values of the dictionary. 
 >Thus giving you a answer key, I added this for testing purposes.
+
+####!!!
+>This is a really old project that I did when I was a rather young beginner. I plan to improve this project when I can, as for now, there is no actual need to work on this. I would rather work on something much more useful.
